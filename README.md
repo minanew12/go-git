@@ -28,11 +28,6 @@ Installation
 
 The recommended way to install *go-git* is:
 
-```go
-import "github.com/go-git/go-git/v5" // with go modules enabled (GO111MODULE=on or outside GOPATH)
-import "github.com/go-git/go-git" // with go modules disabled
-```
-
 
 Examples
 --------
